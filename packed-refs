@@ -1,0 +1,4 @@
+# pack-refs with: peeled fully-peeled sorted 
+cc1193a512255b291883eeff3a99f9f17a62b57a refs/remotes/origin/master
+79eb2246a0b3c15f1b8a27fcd4c003c32212e1e8 refs/tags/facebook-bot-v1.0
+2187c0ea9848a0e99de40c401ed7ec89daafba5a refs/tags/facebook-bot-v1.1
